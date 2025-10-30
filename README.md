@@ -15,7 +15,18 @@ Built using **React + Tailwind CSS + TheMealDB API**.
 
 > 🔗 https://m877hh-5173.csb.app/
 
-## Features
+## 📸 Screenshots
+
+### Home Page
+![Home Page Screenshot](./public/homePageSS.png)
+
+### Recipe Page
+![Recipe Page Screenshot](./public/recipePageSS.png)
+
+### Recipe Details Page
+![Recipe Details Page Screenshot](./public/recipeDetailsPageSS.png)
+
+## ✨ Features
 
 - 🔍 Search recipes by ingredient
 - 📱 Fully responsive design
@@ -23,13 +34,20 @@ Built using **React + Tailwind CSS + TheMealDB API**.
 - ➕ Click on any recipe to view more details
 - 💡Extensible for additional experiments or integrations
 
-## Requirements
+## 🛠️ Tech Stack
+
+- React         - UI development
+- Tailwind CSS  - Styling & responsiveness
+- React Router  - Navigation
+- TheMealDB API - Recipe data
+
+## 📋 Requirements
 
 - Git
 - A runtime and package manager appropriate for the project :
     - Node.js (>=14) and npm/yarn
 
-## Getting started
+## 📦 Getting started
 
 1. Clone the repo
 ```bash
@@ -46,14 +64,14 @@ npm install
 yarn install
 ```
 
-## Running
+## 🚀 Running
 
 Node.js
 ```bash
 npm run dev
 ```
 
-## Project structure
+## 📁 Project structure
 
 - public/             — Images
 - src/                — Source code
@@ -63,10 +81,17 @@ npm run dev
 - main.jsx            — Entry point
 - README.md           — Project documentation
 
-## CodeSandbox Repo Link
+## 🔗 CodeSandbox Repo Link
 
 > 🔗 https://codesandbox.io/p/github/Ankur0301/Recipe-Finder/draft/serene-pine
 
-## GitHub Repo Link
+## 🔗 GitHub Repo Link
 
 > 🔗 https://github.com/Ankur0301/Recipe-Finder
+
+## 👨‍💻 Author
+
+**Ankur Agrawal**  
+- GitHub : **[Ankur0301](https://github.com/Ankur0301)**  
+- LinkedIn : **https://www.linkedin.com/in/ankur-agrawal-/** 
+- Email : **agrank1020@gmail.com** 
