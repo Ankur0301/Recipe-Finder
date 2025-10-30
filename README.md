@@ -1,16 +1,52 @@
-# React + Vite
+## Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive web application to search delicious recipes based on ingredients!  
+Built using **React + Tailwind CSS + TheMealDB API**.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search recipes by ingredient
+- Fully responsive design
+- Beautiful recipe card grid layout
+- Click on any recipe to view more details
+- Extensible for additional experiments or integrations
 
-## React Compiler
+## Requirements
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Git
+- A runtime and package manager appropriate for the project (replace with actual stack):
+    - Node.js (>=14) and npm/yarn
 
-## Expanding the ESLint configuration
+## Getting started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repo
+```bash
+git clone https://github.com/<your-org>/AganithaCognitiveAssignment.git
+cd AganithaCognitiveAssignment
+```
+
+2. Install dependencies (pick the command matching the project stack)
+
+Node.js
+```bash
+npm install
+# or
+yarn install
+```
+
+## Running
+
+Node.js
+```bash
+npm run dev
+```
+
+## Project structure
+
+- public/             — Images
+- src/                — Source code
+- components/         — Reusable UI components
+- pages/              — Application pages & UI screens
+- App.jsx             — Root component
+- main.jsx            — Entry point
+- README.md           — Project documentation
