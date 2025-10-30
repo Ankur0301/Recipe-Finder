@@ -83,7 +83,7 @@ npm run dev
 
 ## 🔗 CodeSandbox Repo Link
 
-> 🔗 https://codesandbox.io/p/github/Ankur0301/Recipe-Finder/draft/serene-pine
+> 🔗 https://codesandbox.io/p/github/Ankur0301/Recipe-Finder
 
 ## 🔗 GitHub Repo Link
 
